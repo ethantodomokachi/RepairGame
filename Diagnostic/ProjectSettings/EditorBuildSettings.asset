@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0-Accueil.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/1-Tobias.unity
+    guid: 829bf9e9b158d29479f98ef01f9958cd
+  - enabled: 1
+    path: Assets/Scenes/2-Choix-niveau.unity
+    guid: 8b948b088ab6b9c49a5a03b082813dbd
+  - enabled: 1
+    path: Assets/Scenes/3-Base-game.unity
+    guid: 7c5ab3c791803134b84023e73642d040
+  - enabled: 1
+    path: Assets/Scenes/4-Cable.unity
+    guid: 36ac92a47d495e04a9ad074ead384a84
+  - enabled: 1
+    path: Assets/Scenes/5-CPU.unity
+    guid: 7940d27e79aa3a449a864f88546299cf
+  - enabled: 1
+    path: Assets/Scenes/6-GPU.unity
+    guid: 6bd053988a1082345a727531c2ba87f2
+  - enabled: 1
+    path: Assets/Scenes/7-RAM.unity
+    guid: d6e6c93d9cbc6084fae2cd8a5680e5ea
+  - enabled: 1
+    path: Assets/Scenes/8-Tobias-fin.unity
+    guid: 9062f5d219ffca44486ff3ece087ae28
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: a1627e0dad6c1a34e8b90c269f3e524e, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: a3ec46b4caab8b5448a14b13a1a73299, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: b491dc4f1508257478bad0e14496243e, type: 2}
